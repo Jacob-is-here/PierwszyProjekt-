@@ -1,0 +1,28 @@
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1.deps.json
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1.runtimeconfig.json
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1.dll
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1.pdb
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.AssemblyInfoInputs.cache
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.AssemblyInfo.cs
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.csproj.CoreCompileInputs.cache
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.dll
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/refint/Aplikacja1.dll
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.pdb
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.genruntimeconfig.cache
+/Users/jakub/Desktop/Aplikacja1/Aplikacja1/obj/Debug/net8.0/ref/Aplikacja1.dll
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1.deps.json
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1.runtimeconfig.json
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1.dll
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/bin/Debug/net8.0/Aplikacja1.pdb
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.AssemblyInfoInputs.cache
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.AssemblyInfo.cs
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.csproj.CoreCompileInputs.cache
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.dll
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/refint/Aplikacja1.dll
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.pdb
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/Aplikacja1.genruntimeconfig.cache
+/Users/jakub/Desktop/ALL/rok 2/Semestr 2/APBD/Aplikacja1/Aplikacja1/obj/Debug/net8.0/ref/Aplikacja1.dll
